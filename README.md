@@ -1,4 +1,15 @@
-# AgentSudo
+# Table of content: Agent SUdo
+- [AgentSudo](#agentsudo)
+    + [Learning objectives](#learning-objectives)
+- [Glossary](#glossary)
+- [Walkthrough](#walkthrough)
+  * [How many open ports?](#how-many-open-ports-)
+  * [How you redirect yourself to a secret page?](#how-you-redirect-yourself-to-a-secret-page-)
+  * [What is the agent name?](#what-is-the-agent-name-)
+  * [FTP Password](#ftp-password)
+  * [ZIP file password](#zip-file-password)
+  * [Steg password(Which text is  needed to encrypt in  order to get the Steg password?)](#steg-password-which-text-is--needed-to-encrypt-in--order-to-get-the-steg-password--)
+
 ### Learning objectives
 I learned several things from this container. For example I used FTP for the first time.Some elements were already known such as brute force and reading files. Although some elements were new such as the ZIP file password were I used binwalk. It was interesting to go in depth on getting information based on a picture. Transcibing a code into regular text(from BASE64) was familiar and I thought it was a fun concept. Afterwards I used Jack the ripper which was my first time.
 # Glossary
