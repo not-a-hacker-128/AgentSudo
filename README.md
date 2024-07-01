@@ -1,3 +1,4 @@
+![Screenshot_2024-07-01_23_37_11](https://github.com/msaurelius/AgentSudo/assets/173549330/f6d1ae72-43c4-49d5-b3fd-8cc3aa2006fe)
 # Table of content: Agent Sudo
 - [AgentSudo](#agentsudo)
     + [Learning objectives](#learning-objectives)
