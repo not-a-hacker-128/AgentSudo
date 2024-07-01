@@ -1,4 +1,4 @@
-# Table of content: Agent SUdo
+# Table of content: Agent Sudo
 - [AgentSudo](#agentsudo)
     + [Learning objectives](#learning-objectives)
 - [Glossary](#glossary)
