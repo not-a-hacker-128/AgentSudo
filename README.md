@@ -19,6 +19,4 @@ I learned several things from this machine. For example I used FTP for the first
   - Binwalk
   - Stenography
   - Jack the ripper
-
-### Reflection
-I learned several things from this machine. For example I used FTP for the first time.Some elements were already known such as brute force and reading files. Although some elements were new such as the ZIP file password were I used binwalk. It was interesting to go in depth on getting information based on a picture. Transcibing a code into regular text(from BASE64) was familiar and I thought it was a fun concept. Afterwards I used Jack the ripper which was my first time.
+\
