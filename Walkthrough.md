@@ -1,5 +1,3 @@
-
-<br>
 #  Walkthrough
 ## How many open ports?
 - Enumarate/port scan
