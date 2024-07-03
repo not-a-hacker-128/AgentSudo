@@ -19,4 +19,3 @@ I learned several things from this machine. For example I used FTP for the first
   - Binwalk
   - Stenography
   - Jack the ripper
-\
